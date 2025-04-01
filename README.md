@@ -6,6 +6,8 @@ Nossa automação foi batizada de DANI, junção das siglas DN (Dealer Number) +
 
 Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar tarefas básicas e recorrentes dentro da concessionária. A automação realizada a atividade e envia um e-mail, diariamente, com o resultado para os responsáveis validarem.
 
+![Video de Introdução ao produto1](./assets/DANI%20-%20Introdução.mp4)
+
 ---
 
 ## Nosso processo de automação consiste nas etapas:
