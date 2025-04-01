@@ -34,9 +34,9 @@ Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar t
 - **Conciliação do conta corrente:** DANI faz os lançamentos de
     
     - Bônus
-    - Holdback**
-    - Emissão de nota de comissão**
-    - Baixa de impostos de peças e veículos**
+    - Holdback
+    - Emissão de nota de comissão
+    - Baixa de impostos de peças e veículos
       
 A automação baixa o arquivo diário e faz os lançamentos que constam no conta corrente, respeitando lançamentos já realizados, adiciona lançamentos não previstos, faz emissão da nota de comissão e baixa dos títulos e adiantamentos. <br>
 **Economia de tempo**: 0,5 HHT por concessionária
