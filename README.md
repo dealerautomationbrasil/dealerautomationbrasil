@@ -1,4 +1,4 @@
-# DANI
+# Dealer Automation: DANI
 
 O projeto nasceu da necessidade de aumentar a produtividade sem ampliar o quadro operacional. Com a automação de processos é possível alcançar este objetivo reduzindo os custos e liberando o staff para produdir mais, se concentrar em tarefas criativas, estratégicas e dedicar seu tempo à um melhor atendimento aos clientes, fornecedores e colegas de trabalho.
 
@@ -71,5 +71,5 @@ A automação baixa o arquivo diário e faz os lançamentos que constam no conta
     **Economia de tempo**: 0,1 HHT por assinatura
 
 - **Script de Instalação**  
-    Um programa modular que executa scripts com base na seleção do usuário. Atualmente, é utilizado para instalar toda a gama de software da empresa com apenas um clique. Graças a essa ferramenta, a equipe de TI consegue configurar um computador formatado para pronto uso em aproximadamente 15 minutos. <br>
+    Um programa modular que executa scripts com base na seleção do usuário. Atualmente, é utilizado para instalar toda a gama de software da empresa com apenas um clique. Graças a essa ferramenta, a equipe de TI consegue configurar um computador recem formatado para pronto para o uso em aproximadamente 15 minutos. <br>
     **Economia de tempo**: 3,5 HHT por equipamento
