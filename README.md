@@ -31,13 +31,13 @@ Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar t
 - **Lançamento de notas de despesas:** O usuário aprovador envia um e-mail com PDF ou XML da nota fiscal informando o rateio e a origem. DANI faz o lançamento da nota fiscal e envia um e-mail para o usuário aprovador com o resultado do lançamento. <br>
 **Economia de tempo**: 0,1 HHT por nota fiscal
 
-## Conciliação do conta corrente: DANI faz os lançamentos de
-
-- **Bônus**
-- **Holdback**
-- **Emissão de nota de comissão**
-- **Baixa de impostos de peças e veículos**
-
+- **Conciliação do conta corrente:** DANI faz os lançamentos de
+    
+    - Bônus
+    - Holdback**
+    - Emissão de nota de comissão**
+    - Baixa de impostos de peças e veículos**
+      
 A automação baixa o arquivo diário e faz os lançamentos que constam no conta corrente, respeitando lançamentos já realizados, adiciona lançamentos não previstos, faz emissão da nota de comissão e baixa dos títulos e adiantamentos. <br>
 **Economia de tempo**: 0,5 HHT por concessionária
 
