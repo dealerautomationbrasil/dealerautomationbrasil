@@ -2,11 +2,11 @@
 
 O projeto nasceu da necessidade de aumentar a produtividade sem ampliar o quadro operacional. Com a automação de processos é possível alcançar este objetivo reduzindo os custos e liberando o staff para produdir mais, se concentrar em tarefas criativas, estratégicas e dedicar seu tempo à um melhor atendimento aos clientes, fornecedores e colegas de trabalho.
 
----
-
 Nossa automação foi batizada de DANI, junção das siglas DN (Dealer Number) + AI (Artificial intelligence).
 
 Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar tarefas básicas e recorrentes dentro da concessionária. A automação realizada a atividade e envia um e-mail, diariamente, com o resultado para os responsáveis validarem.
+
+---
 
 ## Nosso processo de automação consiste nas etapas:
 
