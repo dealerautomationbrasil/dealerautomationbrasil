@@ -4,7 +4,7 @@ O projeto nasceu da necessidade de aumentar a produtividade sem ampliar o quadro
 
 Nossa automação foi batizada de **DANI**, junção das siglas **DN** (Dealer Number) + **AI** (Artificial intelligence).
 
-Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar tarefas básicas e recorrentes dentro da concessionária. A automação realizada a atividade e envia um e-mail, diariamente, com o resultado para os responsáveis validarem.
+Em síntese, a DANI é uma coleção de scripts desenvolvidos para automatizar tarefas básicas e recorrentes dentro da concessionária. A automação realiza a atividade e envia um e-mail, diariamente, com o resultado para os responsáveis validarem.
 
 ![Video de Introdução](./assets/DANI%20-%20Introdução.mp4)
 
